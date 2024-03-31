@@ -3,7 +3,7 @@
     Hi there, I'm Fadhil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
    </h1>
    
-   ![Static Badge](https://img.shields.io/badge/:badgeContent?style=flat-square&logo=Instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2Ftlg69.fadhil%2F)(https://www.instagram.com/tlg69.fadhil)
+   <img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent?style=flat-square&logo=Instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2Ftlg69.fadhil%2F">
    [![Youtube: jycouet](https://img.shields.io/badge/-Jean%20Yves%20Couët-red?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC5053FCXP9BVpW7CHpeA2IA)](https://www.youtube.com/channel/UC5053FCXP9BVpW7CHpeA2IA)
    [![Linkedin: jycouet](https://img.shields.io/badge/-jycouet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jycouet/)](https://www.linkedin.com/in/jycouet/)
   
