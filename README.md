@@ -2,7 +2,7 @@
 🌱 I’m currently learning NestJS
 
 # 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tlg69.fadhil) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fadhilkholaf) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-fadhil-kholaf-7b1a7a270) 
 
 # 💻 Tech Stack:
