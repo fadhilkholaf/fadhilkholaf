@@ -11,6 +11,8 @@ Born in Tulungagung, 3 September 2006
 - HTML
 - CSS
 - JavaScript
+- TypeScript
+- PrismaORM
 
 ## Framework
 - React Js
