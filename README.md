@@ -1,2 +1,3 @@
 - Typescript
 - Next.js
+- Laravel (OTW)
