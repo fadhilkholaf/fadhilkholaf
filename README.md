@@ -1,3 +1,3 @@
-- Typescript
 - Next.js
 - Laravel (OTW)
+- Flutter (OTW)
