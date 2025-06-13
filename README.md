@@ -1,1 +1,8 @@
-![Twicetagram](https://95k1y8fb5v.ufs.sh/f/EyY37ktHRd8rNztzHGJJrDFuH7CsvyQi4OacqLlWEjgkbzBn)
+# Hello, I'm Fadhil.
+A front-end developer
+
+## Prefered Tech Stack
+- React.js
+- Go
+
+I like writing code and do some engineering logic!
