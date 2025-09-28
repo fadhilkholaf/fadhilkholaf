@@ -1,7 +1,7 @@
-# Hello, I'm Fadhil.
+## Hello, I'm Fadhil.
 A front-end developer
 
-## Prefered Tech Stack
+### Prefered Tech Stack
 - React.js
 - Go
 
