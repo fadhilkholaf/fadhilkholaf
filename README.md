@@ -2,7 +2,7 @@
 Software engineer
 
 ### About Me
-I like to write a code using JavaScript and Go
+I like to write a code using TypeScript and Go
 
 ### Interest
 Writing code and do some engineering logic!
