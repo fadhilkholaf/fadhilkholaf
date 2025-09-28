@@ -1,8 +1,10 @@
-## Hello, I'm Fadhil.
-A front-end developer
+### Hello, I'm Fadhil
+Software engineer
 
-### Prefered Tech Stack
-- React.js
-- Go
+### About Me
+I like to write a code using JavaScript and Go
 
-I like writing code and do some engineering logic!
+### Interest
+Writing code and do some engineering logic!
+
+![gopher dancing](./dancing-gopher.gif)
