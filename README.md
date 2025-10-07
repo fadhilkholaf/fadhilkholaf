@@ -1,10 +1,16 @@
 ### Hello, I'm Fadhil
-Software engineer
+Software engineer, information systems student.
 
 ### About Me
-I like to write a code using TypeScript and Go
+I like to write a code using TypeScript and Go.
+
+### I Do
+Writing code and some engineering logic!
 
 ### Interest
-Writing code and do some engineering logic!
+- Low level programming
+- AI engineering
+- Performance critical program
+- Computational mathematics
 
 ![gopher dancing](./dancing-gopher.gif)
